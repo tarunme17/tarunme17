@@ -1,0 +1,17 @@
+{
+  "message": "Client Added Success",
+  "result": true,
+  "data": {
+    "clientId": 4316,
+    "contactPersonName": "string",
+    "companyName": "string",
+    "address": "string",
+    "city": "string",
+    "pincode": "string",
+    "state": "string",
+    "employeeStrength": 0,
+    "gstNo": "string",
+    "contactNo": "string",
+    "regNo": "string"
+  }
+}
