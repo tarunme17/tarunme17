@@ -1,0 +1,45 @@
+{
+  "message": "",
+  "result": true,
+  "data": [
+    {
+      "clientId": 4430,
+      "contactPersonName": "decdj",
+      "companyName": "Willow Tea Room",
+      "address": "647 Garden Walk Dr",
+      "city": "Everest Mountain",
+      "pincode": "123456",
+      "state": "GA",
+      "employeeStrength": 10,
+      "gstNo": "1",
+      "contactNo": "6785597130",
+      "regNo": "011"
+    },
+    {
+      "clientId": 4439,
+      "contactPersonName": "uvi raj",
+      "companyName": "salman it",
+      "address": "Harsha",
+      "city": "YPOU",
+      "pincode": "5226012",
+      "state": "Victoria",
+      "employeeStrength": 55,
+      "gstNo": "sdsd",
+      "contactNo": "099083691",
+      "regNo": "3443"
+    },
+    {
+      "clientId": 4662,
+      "contactPersonName": "Deepak",
+      "companyName": "Pionner",
+      "address": "dfvvf",
+      "city": "Delhi",
+      "pincode": "110020",
+      "state": "Delhi",
+      "employeeStrength": 0,
+      "gstNo": "12345",
+      "contactNo": "7979895689",
+      "regNo": "sdcdfvc"
+    }
+  ]
+}
